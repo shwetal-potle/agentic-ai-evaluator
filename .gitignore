@@ -1,0 +1,13 @@
+node_modules/
+dist/
+build/
+.env
+.DS_Store
+target/
+*.jar
+*.war
+*.iml
+.idea/
+.vscode/
+jdk-17.0.2/
+jdk.zip
